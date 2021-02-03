@@ -2,5 +2,7 @@
   "name": "colorme-app",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/miomaeshima/Colorme-App.git",
+  "author": "miomaeshima <miomamomo@gmail.com>"
 }
