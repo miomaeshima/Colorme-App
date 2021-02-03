@@ -57,5 +57,5 @@ ___
 1．Build a demo site  
 2．Allow select file from the device  
 3．Allow uploading images to the demo site  
-4．Switch between pallets (e.g. between Japanese to English color name pallets)
-5. Switch the font color to what is appropriate for the background (e.g. white font on dark color) 
+4．Switch between pallets (e.g. between Japanese to English color name pallets)  
+5．Switch the font color to what is appropriate for the background (e.g. white font on dark color) 
