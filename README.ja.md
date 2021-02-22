@@ -22,12 +22,16 @@ python がインストールされている前提で、[バックエンドレポ
 $ pip install flask flask_cors openpyxl
 $ virtualenv
 $ env\Scrips\activate
+```
+<!--上記、 セキュリティでうまくいかない場合はpowershell -ExecutionPolicy RemoteSigned env\Scripts\active -->
+```
 $ python app.py
 ```
 
 ### フロントエンド
 
 [フロントエンドレポジトリ](https://github.com/miomaeshima/Colorme-frontend)をクローンしたら、コマンドラインで以下の通り入力。
+<!-- セキュリティでうまくいかない場合はpowershell -ExecutionPolicy RemoteSigned  -->
 
 ```
 $ npm install または　yarn
@@ -69,6 +73,6 @@ http://localhost:8080 を開いてください。
 
 1．デモページの作成。  
 2．デバイス内の画像ファイルを選択できるようにする。  
-3．画像をアップロードして色名を調べられるにする。  
-4．英語の色名パレットにも切り替えられるようにする。  
-5．背景色によって文字の色を変える。
+3．英語の色名パレットにも切り替えられるようにする。  
+4．背景色によって文字の色を変える。
+5. スポイトのようにカーソルを当てた場所の色の名前を表示する。
